@@ -1,3 +1,7 @@
 .greeting {
     color: blue;
 }
+
+.layout {
+    display: block;
+}
